@@ -4,8 +4,7 @@ Building skills today for a stronger tomorrow.
 About Me
 💻 Web Developer
 🎨 Creative Designer
-🎮 Gamer
-![Uploading Akki.png…]()
+🎮 Gamer ![Uploading Akki.png…]()
 
    
 
