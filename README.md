@@ -5,7 +5,7 @@ About Me
 💻 Web Developer
 🎨 Creative Designer
 🎮 Gamer
-![Uploading Akki.png…]()
+
 
    
 
